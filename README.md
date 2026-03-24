@@ -1,5 +1,5 @@
 <img width="1366" height="768" alt="Screenshot 2026-03-24 141348" src="https://github.com/user-attachments/assets/160fbcee-d2ab-42ef-831b-21edb6989a70" />
-<img width="1366" height="768" alt="Screenshot 2026-03-24 141348" src="https://github.com/user-attachments/assets/93c21ee0-c860-45d5-b397-df50cbfeb207" />
+
 # ⏳ Time-Locked Savings (Soroban Smart Contract)
 
 ## 📌 Project Description
